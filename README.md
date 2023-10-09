@@ -1,2 +1,3 @@
 # brincando-com-python
- só pra conhecer
+
+bora dar uma olhada em python?
