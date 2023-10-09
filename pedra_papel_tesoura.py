@@ -23,10 +23,8 @@ def Opcao_Computador():
 while True:
 
     print("---------------")
-
     esc_computador = Opcao_Computador()
     esc_jogador = Opcao_Jogador()
-
     print("---------------")
 
     os.system('cls')
